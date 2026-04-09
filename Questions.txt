@@ -1,0 +1,4 @@
+What is the relationship between video performance and title length?
+	My hypothosis is that video performce plotted against title length will forllow a normal distribution impying video with no title or a short title and videos with a long title perform worse than those whose title length is close to the mean of the normal distribution.
+
+Waterfall chart showing followers over time
